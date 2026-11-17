@@ -6,6 +6,8 @@
 - 스포츠 중계 분석 서비스에서 백엔드 인턴으로 일했습니다.
 - 지금은 AI Systems Lab에서 시계열 모델을 연구하며 화이트햇스쿨에서 클라우드 보안을 배우고 있습니다.
 
+📄 [이력서 PDF](docs/김동준_cv.pdf) · [포트폴리오 PDF](docs/김동준_포트폴리오.pdf)
+
 # Skills
 
 ### Languages, Backend
@@ -55,7 +57,7 @@
 | 세븐미닛 백엔드 개발 인턴 | AI로 스포츠 생중계를 분석해 하이라이트를 만드는 서비스의 API 서버, 영상 분석 파이프라인, 운영 콘솔 | 2026.06 ~ 2026.10 |
 | 세종대학교 AI Systems Lab 학부연구생 | 수소연료전지(PEMFC) 진단용 시계열 Foundation 모델 연구 | 2026.01 ~ |
 | 화이트햇스쿨 4기 | 클라우드 보안 과정, 클라우드 침해 대응 자동화 팀 프로젝트 | 2026.06 ~ 2026.12 |
-| 특허 *(출원 준비 중)* | 입체화 속성을 포함하는 가구 벡터 및 공통 공간 데이터를 이용한 인공지능 기반 인테리어 설계 방법 및 시스템 | 2026 |
+| 특허 *(출원 준비 중)* | 입체화 속성을 포함하는 가구 벡터 및 공통 공간 데이터를 이용한 인공지능 기반 인테리어 설계 방법 및 시스템 | 2026.09 ~ |
 | 컴퓨터활용능력 1급 | 대한상공회의소 | 2022.02 |
 
 ### 인턴 주요 성과
@@ -71,7 +73,7 @@
 | 프로젝트명 | 기간 | 핵심 기술 | 설명 |
 | --- | --- | --- | --- |
 | [LoL 중계 번역 실험](https://github.com/Esports-local) *(개인)* | 2026.11 | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/DRF-092E20?style=flat&logo=django&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white) | 화면 OCR과 영상 프레임이 고유명사 번역을 얼마나 돕는지 조건별 비교 |
-| 클라우드 침해 대응 자동화 *(WHS 4기 팀)* | 2026.08 ~ 10 | ![AWS](https://img.shields.io/badge/Step%20Functions-FF4F8B?style=flat&logo=amazonwebservices&logoColor=white) ![Elastic](https://img.shields.io/badge/ELK-005571?style=flat&logo=elastic&logoColor=white) | 위험 등급에 따라 자동 대응(HOTL)과 사람 승인(HITL)을 나누는 대응 계층 담당 |
+| [클라우드 침해 대응 자동화](https://github.com/djkim0704/hitl-pipeline) *(WHS 4기 팀)* | 2026.08 ~ 10 | ![AWS](https://img.shields.io/badge/Step%20Functions-FF4F8B?style=flat&logo=amazonwebservices&logoColor=white) ![Elastic](https://img.shields.io/badge/ELK-005571?style=flat&logo=elastic&logoColor=white) | 위험 등급에 따라 자동 대응(HOTL)과 사람 승인(HITL)을 나누는 대응 계층 담당 |
 | [AI 인테리어 설계](https://github.com/djkim0704/interior) *(팀)* | 2026.06 ~ | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white) | 방 사진 한 장으로 2D 평면도와 3D 공간 생성, 가구 추천. 특허 출원 준비 중 |
 | [AI 뉴스 요약 서비스](https://github.com/djkim0704/ai-news-summary) *(팀장)* | 2026.05 ~ 06 | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white) ![Vue](https://img.shields.io/badge/Vue-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D) | BigKinds 뉴스를 수집해 Gemini로 요약하고 키워드 통계를 보여 주는 서비스 |
 | [Ensight](https://github.com/sychoi0129/ensight) *(팀)* | 2026.04 ~ 06 | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) | 전력 수요 예측과 LLM 설명 리포트, 리포트 수치 정합성 검사 |
